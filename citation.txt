@@ -1,0 +1,6 @@
+@inproceedings{REPO-342,
+    author = "Mildenhall, Ben and Srinivasan, Pratul P. and Tancik, Matthew and Barron, Jonathan T. and Ramamoorthi, Ravi and Ng, Ren",
+    booktitle = "ECCV",
+    title = "{NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis}",
+    year = "2020"
+}
